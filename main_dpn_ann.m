@@ -6,7 +6,7 @@ restoredefaultpath; addpath('matlab_tools');
 if 1
 
 % data directory
-datadir = './data/raw_data/';
+datadir = './raw_data/';
 
 % number of info bins
 Nbins = 30;
